@@ -1,0 +1,13 @@
+[
+  {
+    "Uid": "demo-001",
+    "Reference": "Ik gean hjoed nei hûs.",
+    "nhyps": {
+      "hyps": [
+        "Ik gean hjoed nei hs.",
+        "Ik gean hjoed nei hûs.",
+        "Ik gean hjoed nei hús."
+      ]
+    }
+  }
+]

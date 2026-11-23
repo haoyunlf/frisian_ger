@@ -1,0 +1,1705 @@
+{
+  "user_id": "annotator_02",
+  "answers": [
+    {
+      "uid": "common_voice_fy-NL_28369729.mp3",
+      "reference": "wie der wat",
+      "baseline_1best": "wie der wat",
+      "gpt_output": "wie der wat",
+      "nbest": [
+        "wie der wat",
+        "wie der wa",
+        "wie er wat",
+        "wie dêr wat",
+        "wie der waat"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "wie der wat",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_28461676.mp3",
+      "reference": "neffens my is dat hielendal gjin goed idee",
+      "baseline_1best": "neffens my is dat hielendal gjin goed idee",
+      "gpt_output": "neffens my is dat hielendal gjin goed idee",
+      "nbest": [
+        "neffens my is dat hielendal gjin goed idee",
+        "neffens my is dat hielendal gjin goedidee",
+        "neffens my is dit hielendal gjin goed idee",
+        "neffens my is dàt hielendal gjin goed idee",
+        "neffens my is dat hielendal gjin goed ideeë"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "neffens my is dat hielendal gjin goed idee",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_36820549.mp3",
+      "reference": "hiest noch safolle freegje wollen oan allegear minsken dy't der net mear binne",
+      "baseline_1best": "hy is noch safolle freegje wollen oan allegear minsken dy't der net mear binne",
+      "gpt_output": "hy is noch safolle freegje wollen oan allegear minsken dy't der net mear binne",
+      "nbest": [
+        "hy is noch safolle freegje wollen oan allegear minsken dy't der net mear binne",
+        "hy is noch safolle freegje wollen oan allegeare minsken dy't der net mear binne",
+        "hy is noch safolle freegje wollen oan allegearr minsken dy't der net mear binne",
+        "hy is noch safolle freegje wollen oan allegearre minsken dy't der net mear binne",
+        "hy is noch safolle freegje wollen oan allegear minsken dy't dêr net mear binne"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "no_change",
+      "selected_text": "hy hie noch safolle freegje wollen oan allegearre minsken dy't der net mear binne",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_23781845.mp3",
+      "reference": "der barden troch de glêdens trettjin iensidige ûngelokken",
+      "baseline_1best": "dêr barden troch de glêdens trettjin iensidige ûngelokken",
+      "gpt_output": "dêr barden troch de glêdens trettjin iensidige ûngelokken",
+      "nbest": [
+        "dêr barden troch de glêdens trettjin iensidige ûngelokken",
+        "der barden troch de glêdens trettjin iensidige ûngelokken",
+        "dêr barden troch de glêdens tretjin iensidige ûngelokken",
+        "der barden troch de glêdens tretjin iensidige ûngelokken",
+        "dêr barden troch de glêdens trettjin iensiedige ûngelokken"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "no_change",
+      "selected_text": "der barden troch de glêdens trettjin iensidige ûngelokken",
+      "copied_from_nbest": 2
+    },
+    {
+      "uid": "common_voice_fy-NL_36883533.mp3",
+      "reference": "alles yn dizze sel dêrwei helje",
+      "baseline_1best": "alles yn dizze sel dêrwei helje",
+      "gpt_output": "alles yn dizze sel dêrwei helje",
+      "nbest": [
+        "alles yn dizze sel dêrwei helje",
+        "alles yn dizze sel dêwei helje",
+        "alles yn dizze sel dêêwei helje",
+        "alles yn dizze sel dêr wei helje",
+        "alles yn dizze sel gdêrwei helje"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "alles yn dizze sel derwei helje",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_28455998.mp3",
+      "reference": "op dy moandeitemoarn wiene de gerdinen fan har wenning ticht",
+      "baseline_1best": "op dy moandeitemoarn wiene de gerdinen fan har wenning ticht",
+      "gpt_output": "op dy moandeitemoarn wiene de gerdinen fan har wenning ticht",
+      "nbest": [
+        "op dy moandeitemoarn wiene de gerdinen fan har wenning ticht",
+        "op dey moandeitemoarn wiene de gerdinen fan har wenning ticht",
+        "op dye moandeitemoarn wiene de gerdinen fan har wenning ticht",
+        "op de moandeitemoarn wiene de gerdinen fan har wenning ticht",
+        "op dy moandeitemoarn wiene de gerdinen fan harr wenning ticht"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "op dy moandeitemoarn wiene de gerdinen fan har wenning ticht",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_24748366.mp3",
+      "reference": "it is wol noflik at dokter frysk praat at it oer gefoelige saken giet",
+      "baseline_1best": "it is wol mooplik op 'e dokter frysk praat ot it oergefoelige saken giet",
+      "gpt_output": "it is wol mooglik op 'e dokter frysk praat at it oergefoelige saken giet",
+      "nbest": [
+        "it is wol mooplik op 'e dokter frysk praat ot it oergefoelige saken giet",
+        "it is wol mooplik op 'e dokter frysk praat at it oergefoelige saken giet",
+        "it is wol moplik op 'e dokter frysk praat ot it oergefoelige saken giet",
+        "it is wol moplik op 'e dokter frysk praat at it oergefoelige saken giet",
+        "it is wol mooplik op 'e dokter frysk praat dot it oergefoelige saken giet"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "create",
+      "selected_text": "it is wol mooglik dat de dokter frysk praat oft it oer gefoelige saken giet",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_26039478.mp3",
+      "reference": "de famylje bestiet út heit mem en ien bern",
+      "baseline_1best": "de famylje bestiet út heit mem en ien ber",
+      "gpt_output": "de famylje bestiet út heit mem en ien bern",
+      "nbest": [
+        "de famylje bestiet út heit mem en ien ber",
+        "de famylje bestiet úd heit mem en ien ber",
+        "de famylje bestiet út heit mem en ien ben",
+        "de famylje bestiet út heit mem en ien be",
+        "de famylje bestiet úd heit mem en ien ben"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "choose_correct",
+      "selected_text": "de famylje bestiet út heit mem en ien bern",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_24621306.mp3",
+      "reference": "geandewei by it âlder wurden komme der allegear eleminten by",
+      "baseline_1best": "geandewei by it âlder wurden komme der allegear eleminten by",
+      "gpt_output": "geandewei by it âlder wurden komme der allegear eleminten by",
+      "nbest": [
+        "geandewei by it âlder wurden komme der allegear eleminten by",
+        "geande wei by it âlder wurden komme der allegear eleminten by",
+        "geandewei by it âlder wurden komme dêr allegear eleminten by",
+        "geande wei by it âlder wurden komme dêr allegear eleminten by",
+        "gean dewei by it âlder wurden komme der allegear eleminten by"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "geandewei by it âlder wurden kommer der allegearre eleminten by",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_24742234.mp3",
+      "reference": "kinne wy it rinnende dwaan",
+      "baseline_1best": "kinne wy it rinnen der dwaan",
+      "gpt_output": "kinne wy it rinnen der dwaan",
+      "nbest": [
+        "kinne wy it rinnen der dwaan",
+        "kinne wy it rinnen de dwaan",
+        "kinne wy it rinnender dwaan",
+        "kinn wy it rinnen der dwaan",
+        "kinne wy it rinnen det dwaan"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "no_change",
+      "selected_text": "kinne wy it rinnende dwaan",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_28499207.mp3",
+      "reference": "ik tink dat de alarmbel echt net let hoecht te wurden",
+      "baseline_1best": "ik tink dat de alarmbel echt net let hoegd te wurde",
+      "gpt_output": "ik tink dat de alarmbel echt net let hoecht te wurden",
+      "nbest": [
+        "ik tink dat de alarmbel echt net let hoegd te wurde",
+        "ik tink dat de alarmbel echt net let hoegt te wurde",
+        "ik tink dat de alarmbel echt net let hoeghd te wurde",
+        "ik tink dat de alarmbel echt net let hoegd te wurden",
+        "ik tink dat de alarmbel echt net let hoeght te wurde"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "create",
+      "selected_text": "ik tink dat de alarmbel echt net let hoegd te wurden",
+      "copied_from_nbest": 4
+    },
+    {
+      "uid": "common_voice_fy-NL_24761187.mp3",
+      "reference": "besikers fan de iepen monumintedagen besjogge ek graach de monuminten fan de takomst",
+      "baseline_1best": "besikers fan de iepen monuminte dagen besjogge ek graach de monuminten fan de takomst",
+      "gpt_output": "besikers fan de iepen monumintedagen besjogge ek graach de monuminten fan de takomst",
+      "nbest": [
+        "besikers fan de iepen monuminte dagen besjogge ek graach de monuminten fan de takomst",
+        "besikers fan de iepen monumintedagen besjogge ek graach de monuminten fan de takomst",
+        "besikers fan de iepenmonuminte dagen besjogge ek graach de monuminten fan de takomst",
+        "besikers fan 'e iepen monuminte dagen besjogge ek graach de monuminten fan de takomst",
+        "besikers fan de iepenmonumintedagen besjogge ek graach de monuminten fan de takomst"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "choose_correct",
+      "selected_text": "besikers fan de iepenmonumintedagen besjogge ek graach de monuminten fan de takomst",
+      "copied_from_nbest": 5
+    },
+    {
+      "uid": "common_voice_fy-NL_24731142.mp3",
+      "reference": "de blommen ferkleurje fan rôsread nei blau",
+      "baseline_1best": "de blommen ferkleurje fan rôsread nei blau",
+      "gpt_output": "de blommen ferkleurje fan rôsread nei blau",
+      "nbest": [
+        "de blommen ferkleurje fan rôsread nei blau",
+        "de blommen ferkleurje fan rôs read nei blau",
+        "de blommn ferkleurje fan rôsread nei blau",
+        "de blommen ferkleurje fan rôsread nei blaiu",
+        "de blommen ferkleurje fan rôsreard nei blau"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "de blommen ferkleurje fan rôsread nei blau",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_28338885.mp3",
+      "reference": "ik sil dy myn fûsten priuwe litte",
+      "baseline_1best": "ik sil dy myn fûtsten priuwe litte",
+      "gpt_output": "ik sil dy myn fûsten priuwe litte",
+      "nbest": [
+        "ik sil dy myn fûtsten priuwe litte",
+        "ik sil dy myn fûsten priuwe litte",
+        "ik sil dy myn fûetsten priuwe litte",
+        "ik sil dy myn fûesten priuwe litte",
+        "ik sil dy myn fotsten priuwe litte"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "choose_correct",
+      "selected_text": "ik sil dy myn fûsten priuwe litte",
+      "copied_from_nbest": 2
+    },
+    {
+      "uid": "common_voice_fy-NL_36548335.mp3",
+      "reference": "hy krûpt ûnder de grutte leunstoel",
+      "baseline_1best": "hy kroept ûnder de grutte leunenstoel",
+      "gpt_output": "hy krûpt ûnder de grutte leunstoel",
+      "nbest": [
+        "hy kroept ûnder de grutte leunenstoel",
+        "hy kropt ûnder de grutte leunenstoel",
+        "hy koept ûnder de grutte leunenstoel",
+        "hy kloept ûnder de grutte leunenstoel",
+        "hy krûept ûnder de grutte leunenstoel"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "create",
+      "selected_text": "hy krûpt ûnder de grutte leunenstoel",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_23783620.mp3",
+      "reference": "sil dat wetter yn de takomst ek streamen bliuwe",
+      "baseline_1best": "sil dat wetter yn 'e takomst ekstreamen bliuwe",
+      "gpt_output": "sil dat wetter yn 'e takomst ekstremen bliuwe",
+      "nbest": [
+        "sil dat wetter yn 'e takomst ekstreamen bliuwe",
+        "sil dat wetter yn de takomst ekstreamen bliuwe",
+        "sil dat wetter yn 'e takomst ekstreamer bliuwe",
+        "sil dat wetter yn 'e takomst ekstreame bliuwe",
+        "sil dat wetter yn 'e takomst ekstremen bliuwe"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "choose",
+      "selected_text": "sil dat wetter yn de takomst ek streame bliuwe",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_36990508.mp3",
+      "reference": "it plan waard freed troch it kabinet goedkard",
+      "baseline_1best": "it plan waard freed troch it kabinet goedkaard",
+      "gpt_output": "it plan waard freed troch it kabinet goedkaard",
+      "nbest": [
+        "it plan waard freed troch it kabinet goedkaard",
+        "it plan waard freedtroch it kabinet goedkaard",
+        "dt plan waard freed troch it kabinet goedkaard",
+        "dit plan waard freed troch it kabinet goedkaard",
+        "it plan waard freed troh it kabinet goedkaard"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "no_change",
+      "selected_text": "it plan warrd freed troch it kabinet goedkard",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_25789739.mp3",
+      "reference": "ik soe it net dwaan",
+      "baseline_1best": "ik soe it net dwaan",
+      "gpt_output": "ik soe it net dwaan",
+      "nbest": [
+        "ik soe it net dwaan",
+        "ik soe 't net dwaan",
+        "ik soe it neat dwaan",
+        "ik soe ït net dwaan",
+        "ik soe it net dwa an"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "ik soe it net dwaan",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_23773279.mp3",
+      "reference": "dy man smyt syn soerfertsjinne sinten oer de balke as wie it neat",
+      "baseline_1best": "dy man smit syn soerfertsjinne sinten oer de bolke as wie it neat",
+      "gpt_output": "dy man smyt syn soerfertsjinne sinten oer de bolle as wie it neat",
+      "nbest": [
+        "dy man smit syn soerfertsjinne sinten oer de bolke as wie it neat",
+        "dy man smiet syn soerfertsjinne sinten oer de bolke as wie it neat",
+        "dy man smyt syn soerfertsjinne sinten oer de bolke as wie it neat",
+        "dy man smyet syn soerfertsjinne sinten oer de bolke as wie it neat",
+        "dy man smit syn soerfertsjenne sinten oer de bolke as wie it neat"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "create",
+      "selected_text": "dy man smyt syn soerfertsjinne sinten oer de balke as wie it neat",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_28746482.mp3",
+      "reference": "do hast it sa drok as in lyts baaske",
+      "baseline_1best": "do hast it sa drok as in lyts paaske",
+      "gpt_output": "do hast it sa drok as in lyts paaske",
+      "nbest": [
+        "do hast it sa drok as in lyts paaske",
+        "do hast it sa trok as in lyts paaske",
+        "do hast it sa drok as in lyts paske",
+        "do hast it sa drok as in lyt paaske",
+        "do hast it sa drok as in lyts paask"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "no_change",
+      "selected_text": "do hast it sa drok as in lyts paaske",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_28417534.mp3",
+      "reference": "wy binne hjoed aardich opsketten mei it wurk",
+      "baseline_1best": "wy binne hjoed aardich opsketten mei it wurk",
+      "gpt_output": "wy binne hjoed aardich opsketten mei it wurk",
+      "nbest": [
+        "wy binne hjoed aardich opsketten mei it wurk",
+        "we binne hjoed aardich opsketten mei it wurk",
+        "w binne hjoed aardich opsketten mei it wurk",
+        "wey binne hjoed aardich opsketten mei it wurk",
+        "wye binne hjoed aardich opsketten mei it wurk"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "wy binne hjoed aardich opsketten mei it wurk",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_35714962.mp3",
+      "reference": "de sneldyk is no sneontenacht ticht troch wurksumheden",
+      "baseline_1best": "de sneldyk is no sneontenacht ticht troch wurksumheden",
+      "gpt_output": "de sneldyk is no sneontenacht ticht troch wurksumheden",
+      "nbest": [
+        "de sneldyk is no sneontenacht ticht troch wurksumheden",
+        "de sneldyk is no sneontenacht ticht troch wrksumheden",
+        "de sneldyk is no steontenacht ticht troch wurksumheden",
+        "de sneldyk is ino sneontenacht ticht troch wurksumheden",
+        "de sneldyk is no sneontenaicht ticht troch wurksumheden"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "de sneldyk is no sneontenacht ticht troch wurksumheden",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_29844749.mp3",
+      "reference": "dy hellet it fan sân meter djipte",
+      "baseline_1best": "dy hellet it fan sân meter djipte",
+      "gpt_output": "dy hellet it fan sân meter djipte",
+      "nbest": [
+        "dy hellet it fan sân meter djipte",
+        "dy hellet it fan sân meter gjipte",
+        "dy hellet it fan sân meter gdjipte",
+        "dy hellet it fan sân meter dgjipte",
+        "dy hellet it fan sân meter jipte"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "dy hellet it fan sân meter djipte",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_28376657.mp3",
+      "reference": "nee it is neat feroare it is praktysk noch allegear persys gelyk",
+      "baseline_1best": "nee it is neat feroaren it is praktysk noch allegear presiis gelyk",
+      "gpt_output": "nee it is neat feroare it is praktysk noch allegear presiis gelyk",
+      "nbest": [
+        "nee it is neat feroaren it is praktysk noch allegear presiis gelyk",
+        "nee it is neat feroare it is praktysk noch allegear presiis gelyk",
+        "nee it is neat feroaren it is praktysk noch allegearr presiis gelyk",
+        "nee it is neat feroaren it is praktysk noch allegear prersiis gelyk",
+        "nee it is neat feroaren it is praktysk noch allegear pesiis gelyk"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "choose",
+      "selected_text": "nee it is neat feroare it is praktysk noch allegearre presys gelyk",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_36265877.mp3",
+      "reference": "de frachtweinsjauffeur hie syn lading net goed fêstmakke",
+      "baseline_1best": "de frachtweinsjauffeur hie syn lading net goed fêst makke",
+      "gpt_output": "de frachtweinsjauffeur hie syn lading net goed fêstmakke",
+      "nbest": [
+        "de frachtweinsjauffeur hie syn lading net goed fêst makke",
+        "de frachtweinsjauffeur hie syn lading net goed fêstmakke",
+        "de frachtweinsjauffeur hie syn laading net goed fêst makke",
+        "de frachtweinsjaffeur hie syn lading net goed fêst makke",
+        "de frachtweinsjauôffeur hie syn lading net goed fêst makke"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "choose_correct",
+      "selected_text": "de frachtweinsjauffeur hie syn lading net goed fêstmakke",
+      "copied_from_nbest": 2
+    },
+    {
+      "uid": "common_voice_fy-NL_23780880.mp3",
+      "reference": "fierwei it grutste part fan de omset komt fan de fersekeringsaktiviteiten",
+      "baseline_1best": "fierwei it grutste paart fan de omset komt fan de fersekeringsaktiviteiten",
+      "gpt_output": "fierwei it grutste part fan de omset komt fan de fersekeringsaktiviteiten",
+      "nbest": [
+        "fierwei it grutste paart fan de omset komt fan de fersekeringsaktiviteiten",
+        "fierwei it grutste paart fan 'e omset komt fan de fersekeringsaktiviteiten",
+        "fierwei it grutste paard fan de omset komt fan de fersekeringsaktiviteiten",
+        "fierwei it grutste paart fan de omset komt fan 'e fersekeringsaktiviteiten",
+        "fierwei it grutste paart fan de omset komt fan de fersekeringaktiviteiten"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "choose_correct",
+      "selected_text": "fierwei it grutste part fan de omset komt fan de fersekeringsaktiviteiten",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_35700522.mp3",
+      "reference": "ik drukte it ear tsjin it hout en harke",
+      "baseline_1best": "ik drukte it ear tsjin it hout en harke",
+      "gpt_output": "ik drukte it ear tsjin it hout en harke",
+      "nbest": [
+        "ik drukte it ear tsjin it hout en harke",
+        "ik drukte it eëar tsjin it hout en harke",
+        "ik drukte it ear tsjin it hout en harce",
+        "'k drukte it ear tsjin it hout en harke",
+        "ik drukte it ear tsjin int hout en harke"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "ik drukte it ear tsjin it hout en harke",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_28235766.mp3",
+      "reference": "set alle apparaten yn 'e hûs út",
+      "baseline_1best": "set alle apperaten yn 'e hús út",
+      "gpt_output": "set alle apparaten yn 'e hûs út",
+      "nbest": [
+        "set alle apperaten yn 'e hús út",
+        "set alle aperaten yn 'e hús út",
+        "set alle apperaten yn 'e hûs út",
+        "set alle appearaten yn 'e hús út",
+        "set alle appaeraten yn 'e hús út"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "create",
+      "selected_text": "set alle apparaten yn 'e hús út",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_23757962.mp3",
+      "reference": "sy waarden bedrige troch it opsettende wetter",
+      "baseline_1best": "se waarden bedriige troch it opsetten de wetter",
+      "gpt_output": "se waarden bedrige troch it opsettende wetter",
+      "nbest": [
+        "se waarden bedriige troch it opsetten de wetter",
+        "se waarden bedriigje troch it opsetten de wetter",
+        "se waarden bedrige troch it opsetten de wetter",
+        "se waarden bedrigje troch it opsetten de wetter",
+        "se waarden bedriige troch it opsettende wetter"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "choose_wrong",
+      "selected_text": "se waarden bedrige troch it opsettene wetter",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_23777802.mp3",
+      "reference": "wêr mei dy jonge salang bliuwe",
+      "baseline_1best": "wêr mei dy jonges sa lang bliuwe",
+      "gpt_output": "wêr meie dy jonges sa lang bliuwe",
+      "nbest": [
+        "wêr mei dy jonges sa lang bliuwe",
+        "wêr mei dy jonge sa lang bliuwe",
+        "wêr mei dy jongens sa lang bliuwe",
+        "wêr mei de jonges sa lang bliuwe",
+        "wêr mei dy jonge s sa lang bliuwe"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "create",
+      "selected_text": "wêrmei dy jongens sa lang bliuwe",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_35769860.mp3",
+      "reference": "fryske boeren ha it swier",
+      "baseline_1best": "fryske boeren ha it swier",
+      "gpt_output": "fryske boeren ha it swier",
+      "nbest": [
+        "fryske boeren ha it swier",
+        "fryske boeren haw it swier",
+        "fryske boren ha it swier",
+        "fryske woeren ha it swier",
+        "fryske boeren ha it sjwier"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "fryske boeren haw it swier",
+      "copied_from_nbest": 2
+    },
+    {
+      "uid": "common_voice_fy-NL_28383462.mp3",
+      "reference": "dêr is it gat fan 'e doar",
+      "baseline_1best": "dêr is it gat fan 'e doer",
+      "gpt_output": "dêr is it gat fan 'e doar",
+      "nbest": [
+        "dêr is it gat fan 'e doer",
+        "dêr is it gat fan de doer",
+        "dêr is it gat fan 'e doar",
+        "dêr is it gat fan 'e doe",
+        "dêr is it gat fan 'e doear"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "choose_correct",
+      "selected_text": "dêr is it gat fan de doar",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_36777071.mp3",
+      "reference": "de bedriuwsadviseurs steane de ûndernimmers mei ried en died by",
+      "baseline_1best": "de bedriuwsadviseurs steane de ûndernimmers mei read en died by",
+      "gpt_output": "de bedriuwsadviseurs steane de ûndernimmers mei raad en died by",
+      "nbest": [
+        "de bedriuwsadviseurs steane de ûndernimmers mei read en died by",
+        "de bedriuwsadviseurs steane de ûndernimmers mei ead en died by",
+        "de bedriuwsadviseur steane de ûndernimmers mei read en died by",
+        "de bedriuwsadviseurss steane de ûndernimmers mei read en died by",
+        "de bedriuwsadviseurs steane de ûndernimmers mei read en die by"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "create",
+      "selected_text": "de bedriuwsadviseurs steane de ûndernimmers mei read en died by",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_21530840.mp3",
+      "reference": "it koart pleit is moarn oan it begjin fan de middei",
+      "baseline_1best": "it koartplaijt is moarn oan it begjin fan de middei",
+      "gpt_output": "it koartpleit is moarn oan it begjin fan de middei",
+      "nbest": [
+        "it koartplaijt is moarn oan it begjin fan de middei",
+        "it koart plaijt is moarn oan it begjin fan de middei",
+        "it koartplaijit is moarn oan it begjin fan de middei",
+        "it koart plaijit is moarn oan it begjin fan de middei",
+        "it koartplait is moarn oan it begjin fan de middei"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "create",
+      "selected_text": "it koartplijt is moarn oan it begjin fan de middei",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_23811468.mp3",
+      "reference": "troch de staking koene tiisdeitemiddei fiif skippen de haven net út",
+      "baseline_1best": "troch de staking koene tiisdeitemiddei fiif skepen de haven net út",
+      "gpt_output": "troch de staking koene tiisdeitemiddei fiif skippen de haven net út",
+      "nbest": [
+        "troch de staking koene tiisdeitemiddei fiif skepen de haven net út",
+        "troch de staking koene tiisdeitemiddei fiir skepen de haven net út",
+        "troch de staking koene tiiseitemiddei fiif skepen de haven net út",
+        "troch de staking koene tiisdeitemiddei fief skepen de haven net út",
+        "troch de staking koene tiisdeitemiddei fiirf skepen de haven net út"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "create",
+      "selected_text": "troch de staking koene tiisdeitemiddei fiif skippen de haven net út",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_28604869.mp3",
+      "reference": "yn 'e hoareka bist soms in entertainer",
+      "baseline_1best": "yn 'e hoareka bist soms in entertener",
+      "gpt_output": "yn 'e hoareka bist soms in entertener",
+      "nbest": [
+        "yn 'e hoareka bist soms in entertener",
+        "yn 'e hoarika bist soms in entertener",
+        "yn 'e hoadeka bist soms in entertener",
+        "yn 'e hoareca bist soms in entertener",
+        "yn 'e hoadika bist soms in entertener"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "no_change",
+      "selected_text": "yn 'e hoareka bist soms in entertener",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_24735319.mp3",
+      "reference": "ik ha wolris mei in fotootsje yn de krante stien",
+      "baseline_1best": "ik haw wolris mei in fototsje yn de krante stien",
+      "gpt_output": "ik haw wolris mei in fotootsje yn de krante stien",
+      "nbest": [
+        "ik haw wolris mei in fototsje yn de krante stien",
+        "ik haw wolris mei in fototsje yn 'e krante stien",
+        "ik haw wolris mei in foto'tsje yn de krante stien",
+        "ik haw wolris mei in foto'tsje yn 'e krante stien",
+        "ik haw wolris mei in foto tsje yn de krante stien"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "choose",
+      "selected_text": "ik haw wolrin mei in fotootsje yn de krante stien",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_24682032.mp3",
+      "reference": "de polysje nimt de saak yn burgum heech op",
+      "baseline_1best": "de polysje nimt de saak yn burgum heech op",
+      "gpt_output": "de polysje nimt de saak yn burgum heech op",
+      "nbest": [
+        "de polysje nimt de saak yn burgum heech op",
+        "de polysje nimt de saak yn wurgum heech op",
+        "de polysje nimt de saak yn wburgum heech op",
+        "de polysje nimt de saak yn mburgum heech op",
+        "de polysje nimt de saak ynburgum heech op"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "de polysje nimt de saak yn burgum heech op",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_27411143.mp3",
+      "reference": "se moat har hús ferkeapje",
+      "baseline_1best": "se moat har hús ferkeapje",
+      "gpt_output": "se moat har hûs ferkeapje",
+      "nbest": [
+        "se moat har hús ferkeapje",
+        "se moat har hûs ferkeapje",
+        "sye moat har hús ferkeapje",
+        "se mohat har hús ferkeapje",
+        "se 'moat har hús ferkeapje"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "choose_from_nbest",
+      "selected_text": "se moat har hûs ferkeapje",
+      "copied_from_nbest": 2
+    },
+    {
+      "uid": "common_voice_fy-NL_28364586.mp3",
+      "reference": "de man hat de stap der flink ûnder set",
+      "baseline_1best": "de man hat de stap de flink ûnderset",
+      "gpt_output": "de man hat de stap der flink ûnderset",
+      "nbest": [
+        "de man hat de stap de flink ûnderset",
+        "de man hat de stapde flink ûnderset",
+        "de man hat de stap der flink ûnderset",
+        "de man hat de stapder flink ûnderset",
+        "de man hat de stap deflink ûnderset"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "choose_wrong",
+      "selected_text": "de man hat de stap der flink ûnderset",
+      "copied_from_nbest": 3
+    },
+    {
+      "uid": "common_voice_fy-NL_28294673.mp3",
+      "reference": "de pot ferwyt de tsjettel dat er swart is",
+      "baseline_1best": "de pat ferwitet tsjettel dat der swart is",
+      "gpt_output": "de pat ferwitet tsjettel dat er swart is",
+      "nbest": [
+        "de pat ferwitet tsjettel dat der swart is",
+        "de pat ferwitet tsjettel dat er swart is",
+        "de pat ferwite tsjettel dat der swart is",
+        "de pat ferwitet tsjeattel dat der swart is",
+        "de pat ferwitet tsjettel dat dêr swart is"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "choose",
+      "selected_text": "de pot ferwitet de tsjettel dat er swart is",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_24722792.mp3",
+      "reference": "flak nei de oarloch krige er in auto",
+      "baseline_1best": "plak nei de oarloch krige er in auto",
+      "gpt_output": "plak nei de oarloch krige er in auto",
+      "nbest": [
+        "plak nei de oarloch krige er in auto",
+        "splak nei de oarloch krige er in auto",
+        "plak nei de oarloch kriger in auto",
+        "lak nei de oarloch krige er in auto",
+        "plak nei de oarloch krig er in auto"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "no_change",
+      "selected_text": "flak nei de oarloch krige er in auto",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_23781764.mp3",
+      "reference": "ik bin alhiel net tefreden mei it resultaat",
+      "baseline_1best": "ik bin al hiel net tefrreden mei it resultaat",
+      "gpt_output": "ik bin al hiel net tefreden mei it resultaat",
+      "nbest": [
+        "ik bin al hiel net tefrreden mei it resultaat",
+        "ik bin al hiel net teferreden mei it resultaat",
+        "ik bin al hiel net tefreden mei it resultaat",
+        "ik bin al hiel net tefereden mei it resultaat",
+        "ik bin al heel net tefrreden mei it resultaat"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "choose",
+      "selected_text": "ik bin al hielendal net tefreden oer it resultaat",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_36793774.mp3",
+      "reference": "och foar my hoecht dat net mear sa nedich",
+      "baseline_1best": "acht foar my hoecht dat net mear sa nedich",
+      "gpt_output": "ach foar my hoecht dat net mear sa nedich",
+      "nbest": [
+        "acht foar my hoecht dat net mear sa nedich",
+        "ach foar my hoecht dat net mear sa nedich",
+        "acht foar my hoeht dat net mear sa nedich",
+        "acht foar my hoegcht dat net mear sa nedich",
+        "acht foar my hoecht dat net mar sa nedich"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "choose",
+      "selected_text": "ach foar my hoecht dat net mear sa nedich",
+      "copied_from_nbest": 2
+    },
+    {
+      "uid": "common_voice_fy-NL_24741675.mp3",
+      "reference": "sylvia waard de sneintenachts mei hertklachten opnommen yn it sikehûs",
+      "baseline_1best": "sylvia waard sneintenachts mei hertklachten opnommen yn it sikehûs",
+      "gpt_output": "sylvia waard sneintenachts mei hertklachten opnommen yn it sikehûs",
+      "nbest": [
+        "sylvia waard sneintenachts mei hertklachten opnommen yn it sikehûs",
+        "sylvia waard sneintenachts mei hertklachten opnommen yn it sikehús",
+        "sylvia waard esneintenachts mei hertklachten opnommen yn it sikehûs",
+        "sylvia waard sneintenachts mei herdklachten opnommen yn it sikehûs",
+        "sylvia waard sneintenachts mei heartklachten opnommen yn it sikehûs"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "no_change",
+      "selected_text": "sylvia waard sneintenachts mei hertklachten opnommen yn it sikehûs",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_24702787.mp3",
+      "reference": "meitsje tekst kursyf fan 'tsjuster' oant en mei 'nacht'",
+      "baseline_1best": "meitsje tekst kursyf fan tsjuster' oant en mei 'nacht'",
+      "gpt_output": "meitsje tekst kursyf fan 'tsjuster' oant en mei 'nacht'",
+      "nbest": [
+        "meitsje tekst kursyf fan tsjuster' oant en mei 'nacht'",
+        "meitsje tekst kursyf fan 'tsjuster' oant en mei 'nacht'",
+        "meitsje tekst kursyf fan tsjuster' oant en mei 'nacht''",
+        "meitsje tekst kursyf fan tsjuster' oant en 'mei 'nacht'",
+        "meitsje 'tekst kursyf fan tsjuster' oant en mei 'nacht'"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "choose_correct",
+      "selected_text": "meitsje tekst kursyf fan 'tsjuster' oant en mei 'nacht'",
+      "copied_from_nbest": 2
+    },
+    {
+      "uid": "common_voice_fy-NL_28455813.mp3",
+      "reference": "foarhinne wennen se yn de sânfurderryp ûnder greonterp",
+      "baseline_1best": "foarhinne wennen se yn de sân fierder ryp ûnder greaunterp",
+      "gpt_output": "foarhinne wennen se yn de sân fierder ryp ûnder greaunterp",
+      "nbest": [
+        "foarhinne wennen se yn de sân fierder ryp ûnder greaunterp",
+        "foarhinne wennen se yn de sân fuierder ryp ûnder greaunterp",
+        "foarhinne wennen se yn de sân fiuerder ryp ûnder greaunterp",
+        "foarhinne wennen se yn de sân fuerder ryp ûnder greaunterp",
+        "foarhinne wennen se yn de sân fierder ryp ûnder greaun terp"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "no_change",
+      "selected_text": "foarhinne wennen sy yn de sân fierderop ûnder greonterp",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_23882529.mp3",
+      "reference": "nul",
+      "baseline_1best": "nu",
+      "gpt_output": "no",
+      "nbest": [
+        "nu",
+        "nuu",
+        "nuo",
+        "nou",
+        "nul"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "choose_wrong",
+      "selected_text": "nu",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_23758556.mp3",
+      "reference": "joop hie der gjin aan fan wat er dêrmei bedoelde",
+      "baseline_1best": "joop hie der gjin aan fan wat er dêrmei bedoelde",
+      "gpt_output": "joop hie der gjin aan fan wat er dêrmei bedoelde",
+      "nbest": [
+        "joop hie der gjin aan fan wat er dêrmei bedoelde",
+        "ijoop hie der gjin aan fan wat er dêrmei bedoelde",
+        "ioop hie der gjin aan fan wat er dêrmei bedoelde",
+        "yjoop hie der gjin aan fan wat er dêrmei bedoelde",
+        "yoop hie der gjin aan fan wat er dêrmei bedoelde"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "joop hie der gjin boadskip oan fan wat er dêrmei bedoelde",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_35556195.mp3",
+      "reference": "hotel",
+      "baseline_1best": "hotel",
+      "gpt_output": "hotel",
+      "nbest": [
+        "hotel",
+        "chotel",
+        "ho tel",
+        "hoetel",
+        "hoctel"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "hotel",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_23759043.mp3",
+      "reference": "hy kin it ek net helpe dat er sa is",
+      "baseline_1best": "hy kin it ek net helpe dat er sa is",
+      "gpt_output": "hy kin it ek net helpe dat er sa is",
+      "nbest": [
+        "hy kin it ek net helpe dat er sa is",
+        "hy kin it ek net helpe dat er say is",
+        "hy kin it ek net helpe dat er sy is",
+        "hy kin it ek net helpe dat er s is",
+        "hy kin it ek net helpe dat er se is"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "hy kin it ek net helpe dat er sa is",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_24697009.mp3",
+      "reference": "it jûnet en ik stean neist myn teleskoop en genietsje fan in moaie sinneûndergong",
+      "baseline_1best": "it jûnet en ik stean neist myn teleskoop in genytsje fan in moaie sinneûndergong",
+      "gpt_output": "it jûnet en ik stean neist myn teleskoop en genytsje fan in moaie sinneûndergong",
+      "nbest": [
+        "it jûnet en ik stean neist myn teleskoop in genytsje fan in moaie sinneûndergong",
+        "it jûnet en ik stean neist myn teleskoop en genytsje fan in moaie sinneûndergong",
+        "it jûnet en ik stean neist myn teleskoop in geniytsje fan in moaie sinneûndergong",
+        "it jûnet en ik stean neist myn teleskoop en geniytsje fan in moaie sinneûndergong",
+        "it jûnet en ik stean neist myn teleskoop in genytsje fan in moaie sinneûnder gong"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "choose",
+      "selected_text": "it jûnet en ik stean neist myn teleskoop en genietsje fan in moaie sinneûndergong",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_36914890.mp3",
+      "reference": "wizigje myn privacyynstellingen",
+      "baseline_1best": "wizigje myn privacyynstellingen",
+      "gpt_output": "wizigje myn privacyynstellingen",
+      "nbest": [
+        "wizigje myn privacyynstellingen",
+        "wizigje myn privarcyynstellingen",
+        "wizigje myn privasyynstellingen",
+        "wizigje myn privascyynstellingen",
+        "wizigje myn privoacyynstellingen"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "wizigje myn privacyynstellingen",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_21530841.mp3",
+      "reference": "nei hûndert meter geane jo linksôf",
+      "baseline_1best": "nei hûndert meter geane jo links ôf",
+      "gpt_output": "nei hûndert meter geane jo links ôf",
+      "nbest": [
+        "nei hûndert meter geane jo links ôf",
+        "nei hondert meter geane jo links ôf",
+        "nei hûndert meter geëane jo links ôf",
+        "nei hûndert meter geane jo links äôf",
+        "nei hûndertmeter geane jo links ôf"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "no_change",
+      "selected_text": "nei hûndermeter gean jo linksôf",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_23780762.mp3",
+      "reference": "it folgjende emailberjocht iepenje",
+      "baseline_1best": "it folgjende emailberjocht iepenje",
+      "gpt_output": "it folgjende emailberjocht iepenje",
+      "nbest": [
+        "it folgjende emailberjocht iepenje",
+        "it folgjende email berjocht iepenje",
+        "it folgjende emaailberjocht iepenje",
+        "it folgjende emailberyjocht iepenje",
+        "it folgjende emailberjocht i'epenje"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "it folgjende emailberjocht iepenje",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_36804733.mp3",
+      "reference": "keunst moatst noait keapje as belizzing",
+      "baseline_1best": "keunst moast noait keapje as belizzing",
+      "gpt_output": "keunst moatst noait keapje as belizzing",
+      "nbest": [
+        "keunst moast noait keapje as belizzing",
+        "keunst moatst noait keapje as belizzing",
+        "keunst moast noait keapje as beliszing",
+        "keunst moatst noait keapje as beliszing",
+        "keunst moast noait keapje as belizzsing"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "choose_correct",
+      "selected_text": "keunst moatst noait keapje as belizzing",
+      "copied_from_nbest": 2
+    },
+    {
+      "uid": "common_voice_fy-NL_23825171.mp3",
+      "reference": "de boukommisje is drok oan it wurk mei de tariedingen",
+      "baseline_1best": "de boukommisje is drok oan it wurk mei de tariedingen",
+      "gpt_output": "de boukommisje is drok oan it wurk mei de tariedingen",
+      "nbest": [
+        "de boukommisje is drok oan it wurk mei de tariedingen",
+        "de boukomisje is drok oan it wurk mei de tariedingen",
+        "de boukommisje is drok oan it wurrk mei de tariedingen",
+        "de boukommisje is drok oan it wurk mei de tariedingeën",
+        "de boukommisje is drok oan it wurkk mei de tariedingen"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "de boukommisje is drok oan it wurk mei de tariedingen",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_28416811.mp3",
+      "reference": "men kin op natuerlike wize ôffalle troch minder te iten",
+      "baseline_1best": "men kin op natuerlike wize ôffalle troch minder te iten",
+      "gpt_output": "men kin op natuerlike wize ôffalle troch minder te iten",
+      "nbest": [
+        "men kin op natuerlike wize ôffalle troch minder te iten",
+        "men kin op natuerlike wïize ôffalle troch minder te iten",
+        "men kin op natuerlike wizze ôffalle troch minder te iten",
+        "men kin ot natuerlike wize ôffalle troch minder te iten",
+        "men kin op natuerlike wize ôsffalle troch minder te iten"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "minsken kinne op natuerlike wize ôffalle troch minder te iten",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_23819744.mp3",
+      "reference": "foar it meidwaan wurdt meastal om in lytse eigen bydrage frege",
+      "baseline_1best": "foar it meidwaan wurdt meastal om in lytse eigen bydrage frege",
+      "gpt_output": "foar it meidwaan wurdt meastal om in lytse eigen bydrage frege",
+      "nbest": [
+        "foar it meidwaan wurdt meastal om in lytse eigen bydrage frege",
+        "foar it meidwaan wurdt t meastal om in lytse eigen bydrage frege",
+        "foar it meidwaan wurdtt meastal om in lytse eigen bydrage frege",
+        "foar it meidwaan wurdtit meastal om in lytse eigen bydrage frege",
+        "foar it meidwaan wurdtdt meastal om in lytse eigen bydrage frege"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "foar it meidwaan wurdt meastal om in lytse eigen bydrage frege",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_23807992.mp3",
+      "reference": "gean nei wurd",
+      "baseline_1best": "gjin nij wurd",
+      "gpt_output": "gjin nij wurd",
+      "nbest": [
+        "gjin nij wurd",
+        "gjen nij wurd",
+        "gjein nij wurd",
+        "gjian nij wurd",
+        "gjan nij wurd"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "no_change",
+      "selected_text": "gjin nij wurd",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_35705349.mp3",
+      "reference": "mark wol yn nij seelân in nij libben opbouwe",
+      "baseline_1best": "mark wol yn nij senân in nij libben opbouwe",
+      "gpt_output": "mark wol yn nij seelân in nij libben opbouwe",
+      "nbest": [
+        "mark wol yn nij senân in nij libben opbouwe",
+        "mark wol yn nijsenân in nij libben opbouwe",
+        "mark wol yn nij selân in nij libben opbouwe",
+        "mark wol yn nij senân in nij libben op bouwe",
+        "mark wol yn nijesenân in nij libben opbouwe"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "create",
+      "selected_text": "marl wol yn nijseelân in nij libben opbouwe",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_36376613.mp3",
+      "reference": "de sinne skynde al folop nei binnen ta troch de kieren fan de gerdinen",
+      "baseline_1best": "de sinne skynde al fol op ne bin ta troch de kieren fan de gerdinen",
+      "gpt_output": "de sinne skynde al fol op ne bint ta troch de kieren fan de gerdinen",
+      "nbest": [
+        "de sinne skynde al fol op ne bin ta troch de kieren fan de gerdinen",
+        "de sinnen skynde al fol op ne bin ta troch de kieren fan de gerdinen",
+        "de sinne skynde al fol op ne binta troch de kieren fan de gerdinen",
+        "de sinnen skynde al fol op ne binta troch de kieren fan de gerdinen",
+        "de sinne skynde al folop ne bin ta troch de kieren fan de gerdinen"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "choose",
+      "selected_text": "de sinne skynde al fol op nei binnen ta troch de kieren fan de gerdinen",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_23773276.mp3",
+      "reference": "dy regel bepaalt dat nimmen syn eigen rjochter wêze kin",
+      "baseline_1best": "dy regel bepaalt dat nimmen syn eigen rjochter wêze kin",
+      "gpt_output": "dy regel bepaalt dat nimmen syn eigen rjochter wêze kin",
+      "nbest": [
+        "dy regel bepaalt dat nimmen syn eigen rjochter wêze kin",
+        "dy regel bepaalt dat nimmen syn eigen erjochter wêze kin",
+        "dy reëgel bepaalt dat nimmen syn eigen rjochter wêze kin",
+        "dy regel bepaald dat nimmen syn eigen rjochter wêze kin",
+        "dy regel bepaalt dat nimen syn eigen rjochter wêze kin"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "dy regel bepaalt dat nimmen syn eigen rjochter wêze kin",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_23759047.mp3",
+      "reference": "hja en har âldere suster marga ferskille as dei en nacht",
+      "baseline_1best": "hja en har âldere suster marga ferskille as dei en nacht",
+      "gpt_output": "hja en har âldere suster marga ferskille as dei en nacht",
+      "nbest": [
+        "hja en har âldere suster marga ferskille as dei en nacht",
+        "hja en har âldere suster manga ferskille as dei en nacht",
+        "hja en har âldere suster marga ferskille as dei en nacht'",
+        "hja en har âldere suster madga ferskille as dei en nacht",
+        "hja en har ldere suster marga ferskille as dei en nacht"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "hja en har âldere suster marga ferskille as dei en nacht",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_28423687.mp3",
+      "reference": "ik haw gjin sint yn 'e bûse",
+      "baseline_1best": "ik haw gjin sint yn 'e boese",
+      "gpt_output": "ik haw gjin sint yn 'e bûse",
+      "nbest": [
+        "ik haw gjin sint yn 'e boese",
+        "ik ha gjin sint yn 'e boese",
+        "ik haw gjn sint yn 'e boese",
+        "ik haw gjin sint yn 'e boeske",
+        "ik haw gjin sint yn 'e boetse"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "create",
+      "selected_text": "ik haw gjin sint yn 'e bûse",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_28454385.mp3",
+      "reference": "hja hie it al betiid op 'e radio heard",
+      "baseline_1best": "hja hie it al betiid op de radio heard",
+      "gpt_output": "hja hie it al betiid op 'e radio heard",
+      "nbest": [
+        "hja hie it al betiid op de radio heard",
+        "hja hie it al betiid op 'e radio heard",
+        "hja hie it al betiid op ie radio heard",
+        "hja hie it al betiid op e radio heard",
+        "hja hie it ol betiid op de radio heard"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "choose_correct",
+      "selected_text": "hja hie it al betiid op de radio heard",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_35559162.mp3",
+      "reference": "it giet oer wat der allegear net bart en wat wol barre moatte soe",
+      "baseline_1best": "it giet oer wat er allegeare net bart en wat wol barre moatte soe",
+      "gpt_output": "it giet oer wat er allegear net bart en wat wol barre moatte soe",
+      "nbest": [
+        "it giet oer wat er allegeare net bart en wat wol barre moatte soe",
+        "it giet oer wat er allegeare net bard en wat wol barre moatte soe",
+        "it giet oer wat er allegear net bart en wat wol barre moatte soe",
+        "it giet oer wat er allegear net bard en wat wol barre moatte soe",
+        "it giet oer wat er allegearre net bart en wat wol barre moatte soe"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "choose",
+      "selected_text": "it giet oer wat der allegearre net bart en wat wol barre moatte soe",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_35961758.mp3",
+      "reference": "der binne ferskate redenen om help te sykjen",
+      "baseline_1best": "der binne ferskate redenen om help te sykjen",
+      "gpt_output": "der binne ferskate redenen om help te sykjen",
+      "nbest": [
+        "der binne ferskate redenen om help te sykjen",
+        "der binne ferskate redenën om help te sykjen",
+        "der binne ferskate redennn om help te sykjen",
+        "der binne ferskate redenn om help te sykjen",
+        "der binne ferskate redennen om help te sykjen"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "der binne ferskate redenen om help te sykjen",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_24640641.mp3",
+      "reference": "dat hinget ôf fan it waar",
+      "baseline_1best": "dat hinget ôf fan it waar",
+      "gpt_output": "dat hinget ôf fan it waar",
+      "nbest": [
+        "dat hinget ôf fan it waar",
+        "dit hinget ôf fan it waar",
+        "dat hinget ô fan it waar",
+        "dat hin get ôf fan it waar",
+        "dat hinget ôlf fan it waar"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "dat hinget ôf fan it waar",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_28334487.mp3",
+      "reference": "it is noch altyd net persys bekend wat der dy freedtenachts bard is",
+      "baseline_1best": "it is noch altyd net persiis bekend wat der de freedtenachtspard is",
+      "gpt_output": "it is noch altyd net persiis bekend wat der freedtenacht bard is",
+      "nbest": [
+        "it is noch altyd net persiis bekend wat der de freedtenachtspard is",
+        "it is noch altyd net persiis bekend wat der dy freedtenachtspard is",
+        "it is noch altyd net persiis bekend wat der de freedtenachtspart is",
+        "it is noch altyd net persiis bekend wat der dy freedtenachtspart is",
+        "it is noch altyd net persiis bekend wat der de freedtenachtpard is"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "create",
+      "selected_text": "it is noch altyd net presys bekend wat der dy freedtenacht bard is",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_24761223.mp3",
+      "reference": "ik hie oan de hals ta kâlde fuotten",
+      "baseline_1best": "ik hie oan de hols ta kâlde fuotten",
+      "gpt_output": "ik hie oan de hols ta kâlde fuotten",
+      "nbest": [
+        "ik hie oan de hols ta kâlde fuotten",
+        "ik hie oan de holse ta kâlde fuotten",
+        "ik hie oan de holes ta kâlde fuotten",
+        "ik hie oan de holss ta kâlde fuotten",
+        "ik hie oant de hols ta kâlde fuotten"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "no_change",
+      "selected_text": "ik hie oan de hals ta kâlde fuotten",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_24068913.mp3",
+      "reference": "yn de bus kaam ik neist sa'n moai blier jongfeint te sitten",
+      "baseline_1best": "yn 'e bus kaam ik neist sa'n moai blier jongfein te sitten",
+      "gpt_output": "yn 'e bus kaam ik neist sa'n moai blier jongfeint te sitten",
+      "nbest": [
+        "yn 'e bus kaam ik neist sa'n moai blier jongfein te sitten",
+        "yn 'e bus kaam ik neist sa'n moai blied jongfein te sitten",
+        "yn 'e bus kaam ik neist sa' moai blier jongfein te sitten",
+        "yn 'e bus kaam ik neit sa'n moai blier jongfein te sitten",
+        "yn 'e bus kaam ik neist sa'n moai blier jongfeine te sitten"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "create",
+      "selected_text": "yn de bus kaam ik neist sa'n moai blier jongfeint te sitten",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_28352496.mp3",
+      "reference": "it giet ek gjinien wat oan wat ik dêr krekt by de ein hie",
+      "baseline_1best": "it giet ek gjinien wat oan wat ik dek rekt bedein hie",
+      "gpt_output": "it giet ek gjinien wat oan wat ik ek rekt betocht hie",
+      "nbest": [
+        "it giet ek gjinien wat oan wat ik dek rekt bedein hie",
+        "it giet ek gjinien wat oan wat ik ek rekt bedein hie",
+        "it giet ek gjinien wat oan wat ik dêk rekt bedein hie",
+        "it giet ek gjinien wat oan wat ik êk rekt bedein hie",
+        "it giet ek gjinien wat oan wat ik tek rekt bedein hie"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "create",
+      "selected_text": "it giet ek net ien wat oan wat it krekt by de ein hie",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_28434140.mp3",
+      "reference": "email printsje",
+      "baseline_1best": "email printsje",
+      "gpt_output": "email printsje",
+      "nbest": [
+        "email printsje",
+        "email 'printsje",
+        "ema il printsje",
+        "emaïil printsje",
+        "eemail printsje"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "e-mail printsje",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_28382223.mp3",
+      "reference": "noch mear as earder stiet syn drokke aginda fol mei fuotbalaktiviteiten",
+      "baseline_1best": "noch mear as earder stiet syn drokke aginda fol mei fuotbalaktiviteiten",
+      "gpt_output": "noch mear as earder stiet syn drokke aginda fol mei fuotbalaktiviteiten",
+      "nbest": [
+        "noch mear as earder stiet syn drokke aginda fol mei fuotbalaktiviteiten",
+        "noch mear as earder stiet syn drokke aginda fol mei fuotbalaktiziteiten",
+        "noch mear as earder stie't syn drokke aginda fol mei fuotbalaktiviteiten",
+        "noch mear as earder stiet syn drokke aginde fol mei fuotbalaktiviteiten",
+        "noch mear as earder stiet syn droke aginda fol mei fuotbalaktiviteiten"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "noch mear as earder stiet syn drokke aginda fol mei fuotbalaktiviteiten",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_23800676.mp3",
+      "reference": "gean nei it begjin fan 'e rigel",
+      "baseline_1best": "gean nei it begjin fan 'e rigel",
+      "gpt_output": "gean nei it begjin fan 'e rigel",
+      "nbest": [
+        "gean nei it begjin fan 'e rigel",
+        "gean nei it begjin fan de rigel",
+        "gean nei it begjin fan 'e rige",
+        "gean nei it begyjin fan 'e rigel",
+        "gean nei it begjin fan de rige"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "gean nei it begjin fan de rigel",
+      "copied_from_nbest": 2
+    },
+    {
+      "uid": "common_voice_fy-NL_36897695.mp3",
+      "reference": "der bestiet ek software om kompjûterbrûkers oan te trúnjen om te skoftsjen",
+      "baseline_1best": "der bestiet ek softwer oan kompjûterbrûekers oan te treaun om te skoftsjen",
+      "gpt_output": "der bestiet ek software oan kompjûterbrûkers oan te trunen om te skoftsjen",
+      "nbest": [
+        "der bestiet ek softwer oan kompjûterbrûekers oan te treaun om te skoftsjen",
+        "der bestiet ek softwer oan kompjûterbrûekers oan te treun om te skoftsjen",
+        "der bestiet ek softwer oan kompjûterbrûkers oan te treaun om te skoftsjen",
+        "der bestiet ek softwer oan kompjûterbrûkers oan te treun om te skoftsjen",
+        "der bestiet ek softwear oan kompjûterbrûekers oan te treaun om te skoftsjen"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "create",
+      "selected_text": "der bestiet ek softwêr om kompjûterbrûkers oan te trúnjen om te skoftsjen",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_28453350.mp3",
+      "reference": "dat is in gigantysk grutte tsjerke",
+      "baseline_1best": "dat is in gigantysk grutte tsjerke",
+      "gpt_output": "dat is in gigantysk grutte tsjerke",
+      "nbest": [
+        "dat is in gigantysk grutte tsjerke",
+        "dit is in gigantysk grutte tsjerke",
+        "dat is in gygantysk grutte tsjerke",
+        "dat is in gïgantysk grutte tsjerke",
+        "dàt is in gigantysk grutte tsjerke"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "dat is in gigantysk grutte tsjerke",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_35551261.mp3",
+      "reference": "soest him de eagen út 'e kop klauwe",
+      "baseline_1best": "soest him de eagen út de kop klauwe",
+      "gpt_output": "soest him de eagen út de kop klauwe",
+      "nbest": [
+        "soest him de eagen út de kop klauwe",
+        "soest him de eagen út de kop klouwe",
+        "soest him de eagen út 'e kop klauwe",
+        "soest him de eagen út 'e kop klouwe",
+        "soest him de eagen út de kop kluwe"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "no_change",
+      "selected_text": "soest him de eagen út de kop klauwe",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_28074507.mp3",
+      "reference": "hja sloech de klauwen yn my en berôve my nachtenlang fan 'e sliep",
+      "baseline_1best": "hja sloech de klouwen yn mei en brôve my nachtenlang fan 'e sliep",
+      "gpt_output": "hja sloech de klouwen yn my en berôve my nachtenlang fan 'e sliep",
+      "nbest": [
+        "hja sloech de klouwen yn mei en brôve my nachtenlang fan 'e sliep",
+        "hja sloech de klouwen yn mei en berôve my nachtenlang fan 'e sliep",
+        "hja sloech de klouwen yn myi en brôve my nachtenlang fan 'e sliep",
+        "hja sloech de klouwen yn myi en berôve my nachtenlang fan 'e sliep",
+        "hja sloech de klouwen yn mei en brôve my nachtnlang fan 'e sliep"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "choose",
+      "selected_text": "hja sloech de klauwen yn my en berôve my nachtenlang fan 'e sliep",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_36730964.mp3",
+      "reference": "it sil wol yn in bepaald soarte fan kranten komme",
+      "baseline_1best": "it sil wol yn in bepaald soarte fan kranten komme",
+      "gpt_output": "it sil wol yn in bepaalde soarte fan kranten komme",
+      "nbest": [
+        "it sil wol yn in bepaald soarte fan kranten komme",
+        "it sil wol yn in bepaal soarte fan kranten komme",
+        "it sil wol yn in bepaalde soarte fan kranten komme",
+        "it sil wol yn in bepaald soarte fan krânten komme",
+        "it sil wol yn in bepaald soarte fan kränten komme"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "choose_from_nbest",
+      "selected_text": "it sil wol yn in bepalld soarte fan krante komme",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_28414725.mp3",
+      "reference": "hy wurdt leaver net mei namme en tanamme neamd yn 'e krante",
+      "baseline_1best": "hy wurdt leaver net mei namme en tanamme niamd yn 'e krante",
+      "gpt_output": "hy wurdt leaver net mei namme en tanamme neamd yn 'e krante",
+      "nbest": [
+        "hy wurdt leaver net mei namme en tanamme niamd yn 'e krante",
+        "hy wurdt leaver net mei namme en tanamme nimd yn 'e krante",
+        "hy wurdt leaver net mei namme en tanamme niamd yn de krante",
+        "hy wurdt leaver net mei namme en tanamme nimd yn de krante",
+        "hy wurdt leaver net mei namme en tanamme neamd yn 'e krante"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "choose_correct",
+      "selected_text": "hy wurdt leaver net mei namme en tanamme neamd yn 'e krante",
+      "copied_from_nbest": 5
+    },
+    {
+      "uid": "common_voice_fy-NL_24627494.mp3",
+      "reference": "dat binne ús freonen",
+      "baseline_1best": "dat binne ús freonen",
+      "gpt_output": "dat binne ús freonen",
+      "nbest": [
+        "dat binne ús freonen",
+        "dat binne ús freoneen",
+        "dat binne ús freonenn",
+        "dat binne ús freeonen",
+        "dat binne ús freounen"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "dat binne ús freonen",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_28453668.mp3",
+      "reference": "de sneintemoarns rieden wy ekstra betiid fan hûs",
+      "baseline_1best": "de sneintemoarns rieden wy ekstra betiid fan hûs",
+      "gpt_output": "de sneintemoarns rieden wy ekstra betiid fan hûs",
+      "nbest": [
+        "de sneintemoarns rieden wy ekstra betiid fan hûs",
+        "de sneintemoarns rieden wy ekstra betiid fanhûs",
+        "de sneintemoarns rieden wy ekstra betiid fan hús",
+        "de sneintemoarns rieden wy ekstra betiid fanhús",
+        "de sneintemoarns rieden wy ekstra betiid fan hs"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "de sneintemoarns rieden wy ekstra betiid fan hûs",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_36493872.mp3",
+      "reference": "de man hat in alkoholferslaving en de kâns op in weromfal is grut",
+      "baseline_1best": "de man hat in alkohol ferslagging en de kâns op in weromfal is grut",
+      "gpt_output": "de man hat in alkoholferslaving en de kâns op in weromfal is grut",
+      "nbest": [
+        "de man hat in alkohol ferslagging en de kâns op in weromfal is grut",
+        "de man hat in alkoholferslagging en de kâns op in weromfal is grut",
+        "de man hat in alkohol ferslaging en de kâns op in weromfal is grut",
+        "de man hat in alkoholferslaging en de kâns op in weromfal is grut",
+        "de man hat in alkehol ferslagging en de kâns op in weromfal is grut"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "create",
+      "selected_text": "de man hat in alkoholferslaving en de kâns op in weromfal is grut",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_28335404.mp3",
+      "reference": "sy hat har nocht fan him hoe dan ek",
+      "baseline_1best": "sy hat har nocht fan him hoe dan ek",
+      "gpt_output": "sy hat har nocht fan him hoe dan ek",
+      "nbest": [
+        "sy hat har nocht fan him hoe dan ek",
+        "sa hat har nocht fan him hoe dan ek",
+        "sj hat har nocht fan him hoe dan ek",
+        "si hat har nocht fan him hoe dan ek",
+        "sy hat har nocht fan hïm hoe dan ek"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "sy hat har nocht fan him hoe dan ek",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_24698682.mp3",
+      "reference": "we ha net sa bêst spile",
+      "baseline_1best": "wa net sa bêst spile",
+      "gpt_output": "wa net sa bêst spile",
+      "nbest": [
+        "wa net sa bêst spile",
+        "waa net sa bêst spile",
+        "wai net sa bêst spile",
+        "wa i net sa bêst spile",
+        "wah net sa bêst spile"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "no_change",
+      "selected_text": "wy haw net sa bêst spile",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_24750183.mp3",
+      "reference": "it giet oer want hy wol net mear",
+      "baseline_1best": "it giet oer want hy wol net mear",
+      "gpt_output": "it giet oer want hy wol net mear",
+      "nbest": [
+        "it giet oer want hy wol net mear",
+        "it giet oer want hjy wol net mear",
+        "it giet oer want ihy wol net mear",
+        "it giet oerr want hy wol net mear",
+        "it giet oear want hy wol net mear"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "it giet oer want hy wol net mear",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_23811427.mp3",
+      "reference": "we wolle in kuiertocht meitsje yn de natoer",
+      "baseline_1best": "we wolle in koietocht meitsje yn de natouer",
+      "gpt_output": "wy wolle in kuiertocht meitsje yn de natuer",
+      "nbest": [
+        "we wolle in koietocht meitsje yn de natouer",
+        "we wolle in koietocht meitsje yn de natuer",
+        "we wolle in koietocht meitsje yn de natoer",
+        "we wolle in koietocht meitsje yn de natuoer",
+        "wy wolle in koietocht meitsje yn de natouer"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "create",
+      "selected_text": "wy wolle in kuiertocht meitsje yn de natuer",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_24721187.mp3",
+      "reference": "sûnt wannear hawwe wy in faam foar de húshâlding",
+      "baseline_1best": "sûnt wannear ha wy in faam foar de húshâlding",
+      "gpt_output": "sûnt wannear ha wy in faam foar de húshâlding",
+      "nbest": [
+        "sûnt wannear ha wy in faam foar de húshâlding",
+        "sûnt wannear haw wy in faam foar de húshâlding",
+        "sûnt wannear ha ewy in faam foar de húshâlding",
+        "sûnt wannear hae wy in faam foar de húshâlding",
+        "sûnt wannear haewy in faam foar de húshâlding"
+      ],
+      "category": "ref_not_in_nbest",
+      "behavior_type": "no_change",
+      "selected_text": "sûnt wannear haw wy in faam foar de húshâlding",
+      "copied_from_nbest": 2
+    },
+    {
+      "uid": "common_voice_fy-NL_24694301.mp3",
+      "reference": "dokter kaam de oare moarns om alve oere",
+      "baseline_1best": "dokter kaam de oare moarns om alve oere",
+      "gpt_output": "dokter kaam de oare moarns om alve oere",
+      "nbest": [
+        "dokter kaam de oare moarns om alve oere",
+        "dokter kaam de oare mooarns om alve oere",
+        "dokter kaam de oare marns om alve oere",
+        "dokter kaam de oare moarns om halve oere",
+        "dokter kaam de oare moarns om alfve oere"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "dokter kaam de oare moarns om alve oere",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_20507008.mp3",
+      "reference": "we fine dat in heel wichtich punt",
+      "baseline_1best": "we fine dat in heel wichtich punt",
+      "gpt_output": "wy fine dat in hiel wichtich punt",
+      "nbest": [
+        "we fine dat in heel wichtich punt",
+        "wy fine dat in heel wichtich punt",
+        "we fine dat in hel wichtich punt",
+        "wê fine dat in heel wichtich punt",
+        "we fine dat in heal wichtich punt"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "create",
+      "selected_text": "wy fine dat in heel wichtich punt",
+      "copied_from_nbest": 2
+    },
+    {
+      "uid": "common_voice_fy-NL_28194861.mp3",
+      "reference": "hy betelle fiifhûndert euro de man swart yn 't hantsje",
+      "baseline_1best": "hy betelle fiifhûndert euro de man swart yn it hantsje",
+      "gpt_output": "hy betelle fiifhûndert euro de man swart yn it hantsje",
+      "nbest": [
+        "hy betelle fiifhûndert euro de man swart yn it hantsje",
+        "hy betelle fiif hûndert euro de man swart yn it hantsje",
+        "hy betelle fiifhûndert euro de man swart yn 't hantsje",
+        "hy betelle fiifhûndert euro de man swart yn i't hantsje",
+        "hy betelle fiifhûndert euro de man swart yn 'it hantsje"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "no_change",
+      "selected_text": "hy betelle fiifhûndert euro de man swart yn it hantsje",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_28359163.mp3",
+      "reference": "hy smookte de iene sigaret nei de oare",
+      "baseline_1best": "hy smookte de iene sigaret nei de oare",
+      "gpt_output": "hy smookte de iene sigaret nei de oare",
+      "nbest": [
+        "hy smookte de iene sigaret nei de oare",
+        "hy smookte de iene sigearet nei de oare",
+        "hy smokte de iene sigaret nei de oare",
+        "hy smookte de iene sigeret nei de oare",
+        "hy smookte de iene sigret nei de oare"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "hy smookte de iene sigaret nei de oare",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_35761728.mp3",
+      "reference": "doe't ik jong wie haw ik in soad by de boer arbeide",
+      "baseline_1best": "doe't ik jong wie haw ik in soad by de boer arbeide",
+      "gpt_output": "doe't ik jong wie haw ik in soad by de boer arbeide",
+      "nbest": [
+        "doe't ik jong wie haw ik in soad by de boer arbeide",
+        "doe't ik jong wie haw ik in soad byde boer arbeide",
+        "doe't ik jong wie ha ik in soad by de boer arbeide",
+        "doe't ik jong wie haww ik in soad by de boer arbeide",
+        "doe't ik jong wie haw itk in soad by de boer arbeide"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "doe't ik jong wie haw ik in soad by de boer arbeide",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_21429693.mp3",
+      "reference": "ik sjoch hielendal gjin wâl mear sa mistich wurdt it no ynienen",
+      "baseline_1best": "ik sjoch hielendal gjin wâl mear sa mistich wurdt it no ynienen",
+      "gpt_output": "ik sjoch hielendal gjin wâl mear sa mistich wurdt it no ynienen",
+      "nbest": [
+        "ik sjoch hielendal gjin wâl mear sa mistich wurdt it no ynienen",
+        "ik sjoc hielendal gjin wâl mear sa mistich wurdt it no ynienen",
+        "ik sjoch hielendal gjin wôâl mear sa mistich wurdt it no ynienen",
+        "ik sjoch hielendal gjin wâôl mear sa mistich wurdt it no ynienen",
+        "ik sjoch hielendal gjin wâld mear sa mistich wurdt it no ynienen"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "ik sjoch hielendal gjin wâl mear sa mistich wurdt it no ynienen",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_27762829.mp3",
+      "reference": "wolsto ek wat fan my drinke",
+      "baseline_1best": "wolsto ek wat foan my drinke",
+      "gpt_output": "wolsto ek wat fan my drinke",
+      "nbest": [
+        "wolsto ek wat foan my drinke",
+        "wolsto ek wat fan my drinke",
+        "wolsto ek wat foar my drinke",
+        "wolsto ek wat far my drinke",
+        "wolsto ek wat foanr my drinke"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "choose_correct",
+      "selected_text": "wolsto ek wat fan myn drinken",
+      "copied_from_nbest": null
+    },
+    {
+      "uid": "common_voice_fy-NL_28461674.mp3",
+      "reference": "de fierdere spulregels wurde yn de rin fan dizze útstjoering wol dúdlik",
+      "baseline_1best": "de fierdere spulregels wurde yn de rin fan dizze útstjoering wol dúdlik",
+      "gpt_output": "de fierdere spulregels wurde yn de rin fan dizze útstjoering wol dúdlik",
+      "nbest": [
+        "de fierdere spulregels wurde yn de rin fan dizze útstjoering wol dúdlik",
+        "de fierdere spulregels wurde yn de rin fan dizze útstjoerring wol dúdlik",
+        "de fierdere speulregels wurde yn de rin fan dizze útstjoering wol dúdlik",
+        "de fierdere spulrigels wurde yn de rin fan dizze útstjoering wol dúdlik",
+        "de fierdere spulregels wurde yn de rin fan dizze útstsjoering wol dúdlik"
+      ],
+      "category": "ref_is_1best",
+      "behavior_type": "no_change",
+      "selected_text": "de fierdere spulregels wurde yn de rin fan dizze útstjoering wol dúdlik",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_35550261.mp3",
+      "reference": "ien tredde fan de befolking is fan hús en hear ferdreaun",
+      "baseline_1best": "ien tredde fan de befolking is fan hûs en hear ferdreaun",
+      "gpt_output": "ien tredde fan de befolking is fan hûs en hear ferdreaun",
+      "nbest": [
+        "ien tredde fan de befolking is fan hûs en hear ferdreaun",
+        "ien tredder fan de befolking is fan hûs en hear ferdreaun",
+        "ien tredde fan 'e befolking is fan hûs en hear ferdreaun",
+        "ien tredder fan 'e befolking is fan hûs en hear ferdreaun",
+        "ien tredde fan de befolking is fan hús en hear ferdreaun"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "no_change",
+      "selected_text": "ien tredde fan de befolking is fan hûs en hear ferdreaun",
+      "copied_from_nbest": 1
+    },
+    {
+      "uid": "common_voice_fy-NL_25789729.mp3",
+      "reference": "ik wurkje mei hynstehier en brûk ek lekkense stoffen fan hûndert persint wolle",
+      "baseline_1best": "ik wurkje mei hynstehier en brûk ek lekkerske stoffen fan hûndert persint wolle",
+      "gpt_output": "ik wurkje mei hynstehier en brûk ek lekkerske stoffen fan hûndert persint wol",
+      "nbest": [
+        "ik wurkje mei hynstehier en brûk ek lekkerske stoffen fan hûndert persint wolle",
+        "ik wurkje mei hynstehier en brûk ek lekkenske stoffen fan hûndert persint wolle",
+        "ik wurkje mei hynstehier en brûk ek lekkerse stoffen fan hûndert persint wolle",
+        "ik wurkje mei hynstehier en brûk ek lekkerske stoffen fan hûndertpersint wolle",
+        "ik wurkje mei hynstehier en brûk ek lekkense stoffen fan hûndert persint wolle"
+      ],
+      "category": "ref_in_nbest",
+      "behavior_type": "create",
+      "selected_text": "ik wurkje mei hynstehier en brûk ek de lekkerste stoffen fan hûndert persint wolle",
+      "copied_from_nbest": null
+    }
+  ]
+}
